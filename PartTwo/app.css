@@ -1,0 +1,17 @@
+.movie{
+    display: inline-block;
+    width: 100px;
+    background-color: rgb(225, 221, 115);
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+}
+
+.movie button{
+    background-color:red;
+}
+form{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 100px;
+}
